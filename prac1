@@ -1,0 +1,180 @@
+Accounts Receivable & Payable — Tally Prime Practical
+1. Create Company and Introduce Capital of ₹50 Lakhs, Then Transfer ₹10 Lakhs to Bank
+Step 1: Create a Company
+1. Open Tally Prime.
+2. Go to Company → Create Company.
+3. Enter the company details:
+   - Company Name: Pranaya.ITA-52
+   - State: Maharashtra
+   - Country: India
+4. Enable the required features:
+- Show More Features: Yes
+- Show All Features: Yes
+- Maintain Accounts: Yes
+- Enable Bill-wise Entry: Yes
+- Enable Goods and Services Tax (GST): Yes
+- State: Maharashtra
+- Registration Type: Regular
+- Assessee of Other Territory: No
+- GSTIN/UIN: 27AAAAC4978Q1Z0
+- Periodicity of GSTR-1: Monthly
+- E-Way Bill Application: No
+5. Press Ctrl + A to save.
+Step 2: Introduce Capital of ₹50 Lakhs
+1. Go to Gateway of Tally → Vouchers → F6: Receipt.
+2. Create the required ledgers:
+   - Pranaya's Capital → Under: Capital Account
+   - Cash → Under: Cash-in-Hand
+3. Enter the transaction:
+   Debit: Cash — ₹50,00,000
+   Credit: Pranaya's Capital — ₹50,00,000
+4. Enter the narration:
+   Being capital of ₹50,00,000 introduced into business.
+5. Press Ctrl + A to save.
+Step 3: Transfer ₹10 Lakhs to Bank
+1. Create a bank ledger if it does not exist:
+- HDFC → Under: Bank Accounts
+2. Go to Gateway of Tally → Vouchers → F4: Contra.
+3. Enter the transaction:
+   Debit: HDFC — ₹10,00,000
+   Credit: Cash — ₹10,00,000
+4. Enter the narration:
+   Being ₹10,00,000 transferred from cash to bank account.
+5. Press Ctrl + A to save.
+
+
+ Accounts Receivable (Money Received)
+1. Your company receives payment for website development services from ABC Technologies of ₹45,000.
+1. Go to Gateway of Tally → Vouchers → F6: Receipt.
+2. Create the required ledgers if they do not exist:
+- ICICI Bank → Under: Bank Accounts
+- ABC Technologies → Under: Sundry Debtors
+- Website Development Services → Under: Direct Incomes
+3. Enter the transaction:
+   Debit: ICICI Bank — ₹45,000
+   Credit: Website Development Services — ₹45,000
+4. Enter the narration:
+   Being payment of ₹45,000 received from ABC Technologies for website development services.
+5. Press Ctrl + A to save.
+2. Your company receives interest income from State Bank of India of ₹8,250.
+1. Go to Gateway of Tally → Vouchers → F6: Receipt.
+2. Create the required ledgers if they do not exist:
+- State Bank of India → Under: Bank Accounts
+- Interest Income → Under: Indirect Incomes
+3. Enter the transaction:
+   Debit: State Bank of India — ₹8,250
+   Credit: Interest Income — ₹8,250
+4. Enter the narration:
+   Being interest income of ₹8,250 received from State Bank of India.
+5. Press Ctrl + A to save.
+
+ Accounts Payable (Payments Made)
+1. Your company makes a payment of internet expense for the current month to ABC Broadband Services of ₹3,500.
+1. Go to Gateway of Tally → Vouchers → F5: Payment.
+2. Create the required ledgers if they do not exist:
+- ABC Broadband Services → Under: Sundry Creditors
+- Internet Expense → Under: Indirect Expenses
+- Cash → Under: Cash-in-Hand
+3. Enter the transaction:
+   Debit: Internet Expense — ₹3,500
+   Credit: Cash — ₹3,500
+4. Enter the narration:
+   Being internet expense of ₹3,500 paid to ABC Broadband Services for the current month.
+5. Press Ctrl + A to save.
+2. Your company makes a payment of electricity expense, water expense and maintenance expense for the current month to M/s Facility Management Services.
+- Electricity Expense — ₹8,500
+- Water Expense — ₹2,200
+- Maintenance Expense — ₹6,300
+1. Go to Gateway of Tally → Vouchers → F5: Payment.
+2. Create the required ledgers if they do not exist:
+- Electricity Expense → Under: Indirect Expenses
+- Water Expense → Under: Indirect Expenses
+- Maintenance Expense → Under: Indirect Expenses
+- M/s Facility Management Services → Under: Sundry Creditors
+- HDFC → Under: Bank Accounts
+3. Enter the transaction:
+   Debit: Electricity Expense — ₹8,500
+   Debit: Water Expense — ₹2,200
+   Debit: Maintenance Expense — ₹6,300
+   Credit: HDFC — ₹17,000
+4. Enter the narration:
+   Being electricity, water and maintenance expenses for the current month paid to M/s Facility Management Services.
+5. Press Ctrl + A to save.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+
+
+
+
+
+
+
