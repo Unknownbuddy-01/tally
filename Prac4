@@ -1,0 +1,139 @@
+Purchase Transaction – HP Printers
+Given: Purchase 25 HP Printers @ ₹28,000 each + 18% GST. 4 printers are defective and 
+returned. Pay 30% of the non-defective products.
+A. Create Purchase Order
+1. Open Tally Prime and select the required company. 
+2. Go to Gateway of Tally → Vouchers. 
+3. Select Purchase Order using Ctrl + F9. 
+4. Select the supplier HP Technologies India Pvt Ltd. 
+5. Enter the Order Number/Reference Number as DL005. 
+6. Select the stock item HP Printer. 
+7. Enter quantity as 25 Pieces. 
+8. Enter the rate as ₹28,000 per Piece. 
+9. Select/verify the appropriate CGST and SGST ledgers at 9% each. 
+10. Check the order value and GST amount. 
+11. Accept and save the Purchase Order. 
+B. Create Purchase Voucher
+12. Go to Gateway of Tally → Vouchers → Purchase (F9). 
+13. Select HP Technologies India Pvt Ltd as the party. 
+14. Use Agst Ref/Order and select the previously created Purchase Order. 
+15. Enter 25 Pieces of HP Printer at ₹28,000. 
+16. Verify that 18% GST is calculated correctly. 
+17. Enter/select the appropriate purchase ledger. 
+18. Verify the total invoice amount. 
+19. Accept and save the Purchase Voucher. 
+20. In Bill-wise Details, select New Ref and enter the invoice/reference details as required. 
+C. Return 4 Defective Printers – Debit Note
+21. Go to Gateway of Tally → Vouchers. 
+22. Select Debit Note using Ctrl + F9. 
+23. Select HP Technologies India Pvt Ltd as the party. 
+24. Select/reference the original purchase invoice. 
+25. Enter 4 Pieces of HP Printer. 
+26. Enter the rate as ₹28,000 per Piece. 
+27. Verify the applicable 18% GST reversal/adjustment. 
+28. Check the debit note value. 
+29. Accept and save the Debit Note. 
+30. Verify that the stock quantity has been reduced by 4 Printers. 
+D. Make 30% Payment 31. Calculate the value of the 21 non-defective printers. 
+32. Calculate 30% of the amount payable after considering the purchase return. 
+33. Go to Gateway of Tally → Vouchers → Payment (F5). 
+34. Select the appropriate Bank/Cash Ledger. 
+35. Select HP Technologies India Pvt Ltd as the party. 
+36. Use Bill-wise Details → Agst Ref and select the outstanding purchase bill. 
+37. Enter the calculated 30% payment amount. 
+38. Verify the remaining outstanding balance. 
+39. Accept and save the Payment Voucher. 
+2. Sales Transaction – HP Printers
+Given: Sell 18 HP Printers @ ₹35,000 each + 18% GST. 5 are returned. Receive 40% payment 
+for the non-defective products.
+A. Create Sales Order
+1. Open Tally Prime and select the required company. 
+2. Go to Gateway of Tally → Vouchers. 
+3. Select Sales Order using Ctrl + F8. 
+4. Select Eatence Technologies India Pvt Ltd as the customer. 
+5. Enter the Order Number/Reference Number as EL005. 
+6. Select the stock item HP Printer. 
+7. Enter quantity as 18 Pieces. 
+8. Enter the rate as ₹35,000 per Piece. 
+9. Select the appropriate CGST and SGST ledgers at 9% each. 
+10. Verify the GST and total order value. 
+11. Accept and save the Sales Order. 
+B. Create Sales Voucher
+12. Go to Gateway of Tally → Vouchers → Sales (F8). 
+13. Select Eatence Technologies India Pvt Ltd as the party. 
+14. Use Agst Ref/Order and select the previously created Sales Order. 
+15. Enter 18 Pieces of HP Printer at ₹35,000. 
+16. Verify the applicable 18% GST. 
+17. Select the appropriate sales ledger. 
+18. Verify the invoice total. 
+19. Accept and save the Sales Voucher. 
+20. Enter the appropriate Bill-wise Reference Details. 
+C. Return 5 Printers – Credit Note 21. Go to Gateway of Tally → Vouchers. 
+22. Select Credit Note using Alt + F8. 
+23. Select Eatence Technologies India Pvt Ltd as the party. 
+24. Reference the original sales invoice. 
+25. Enter 5 Pieces of HP Printer. 
+26. Enter the rate as ₹35,000 per Piece. 
+27. Verify the applicable 18% GST adjustment. 
+28. Check the credit note value. 
+29. Accept and save the Credit Note. 
+30. Verify that the 5 returned Printers are added back to stock. 
+D. Receive 40% Payment
+31. Calculate the value of the 13 non-defective printers. 
+32. Calculate 40% of the amount receivable for the non-defective products. 
+33. Go to Gateway of Tally → Vouchers → Receipt (F6). 
+34. Select the appropriate Bank/Cash Ledger. 
+35. Select Eatence Technologies India Pvt Ltd as the party. 
+36. Select Agst Ref under Bill-wise Details. 
+37. Select the outstanding sales invoice. 
+38. Enter the calculated 40% receipt amount. 
+39. Verify the remaining receivable amount. 
+40. Accept and save the Receipt Voucher. 
+3. Purchase Return Transaction – HP 
+Printers
+Given: Purchase 32 HP Printers @ ₹30,000 each + 18% GST. 6 are defective and returned. Pay 
+50% of the remaining non-defective products.
+A. Create Purchase Order
+1. Open Tally Prime and select the required company. 
+2. Go to Gateway of Tally → Vouchers. 
+3. Select Purchase Order (Ctrl + F9). 
+4. Select HP Technologies India Pvt Ltd as the supplier. 
+5. Enter the reference/invoice number as DL006. 
+6. Select HP Printer as the stock item. 
+7. Enter quantity as 32 Pieces. 
+8. Enter rate as ₹30,000 per Piece. 
+9. Apply 18% GST. 
+10. Verify the order value and GST calculation. 11. Accept and save the Purchase Order. 
+B. Create Purchase Voucher
+12. Open Purchase Voucher (F9). 
+13. Select HP Technologies India Pvt Ltd. 
+14. Select the previously created Purchase Order using the appropriate reference option. 
+15. Enter/verify 32 Pieces at ₹30,000. 
+16. Verify the 18% GST calculation. 
+17. Select the appropriate purchase ledger. 
+18. Check the invoice total. 
+19. Enter the required Bill-wise Reference Details. 
+20. Accept and save the Purchase Voucher. 
+C. Return 6 Defective Printers
+21. Open Debit Note (Ctrl + F9). 
+22. Select HP Technologies India Pvt Ltd. 
+23. Reference the original purchase invoice. 
+24. Select HP Printer. 
+25. Enter quantity as 6 Pieces. 
+26. Enter the rate as ₹30,000 per Piece. 
+27. Verify the applicable 18% GST adjustment. 
+28. Verify the debit note amount. 
+29. Accept and save the Debit Note. 
+30. Check the stock position to ensure the 6 returned Printers are deducted. 
+D. Make 50% Payment
+31. Calculate the number of non-defective Printers: 32 − 6 = 26 Pieces. 
+32. Calculate the value of the 26 non-defective Printers. 
+33. Calculate 50% of the payable amount. 
+34. Open Payment Voucher (F5). 
+35. Select the appropriate Bank/Cash Ledger. 
+36. Select HP Technologies India Pvt Ltd. 
+37. Select Agst Ref under Bill-wise Details. 
+38. Select the outstanding purchase invoice. 
+39. Enter the calculated 50% payment amount. 
+40. Verify the remaining outstanding amount. 
+41. Accept and save the Payment Voucher.
