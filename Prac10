@@ -1,0 +1,30 @@
+Moving to the Next Financial Year
+Practical Date - 19 September
+Submission Date - 26 September
+Question 1: Splitting Company Data
+Practical Question:
+Raj Enterprises wants to split its company data after 31 March 2026 to create separate
+companies for the fi nancial years 2025–26 and 2026–27.
+Answer Steps:
+1. Open TallyPrime → Alt + Y (Data) → Split Company Data.
+2. Select the company to split.
+3. Enter the splitting date: 1-Apr-2026.
+4. Verify the fi nancial year details.
+5. Select Split and confi rm.
+6. Verify the data in both companies.
+Question 2: Creating Group Companies and Comparative Reports
+Practical Question:
+Shree Group has two companies, Shree Traders and Shree Services. Create a group
+company to view their combined fi nancial performance and generate a comparative Profi t
+& Loss report.
+Answer Steps:
+Creating Group Company:
+1. Go to Gateway of Tally → Create → Group Company.
+2. Enter the name: Shree Group.
+3. Select Shree Traders and Shree Services.
+4. Save the group company.
+Generating Comparative Report:
+1. Open Shree Group → Display → Profi t & Loss A/c.
+2. Select F12 (Confi gure).
+3. Enable comparison with the previous period or company.
+4. Review the comparative fi nancial fi gures.
