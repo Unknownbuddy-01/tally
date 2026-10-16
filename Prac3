@@ -1,0 +1,111 @@
+TallyPrime Practical: Additional Cost of 
+Purchase
+Practical 1 — Purchase + Freight
+Transaction Details
+Date: 10 August 2026
+Supplier: Techno Supplies
+Supplier Invoice No.: TS/145
+Item Quantity Rate Amount
+USB Keyboard 50 Nos. ₹800 ₹40,000
+USB Mouse 50 Nos. ₹400 ₹20,000
+Purchase Total ₹60,000
+Freight: ₹3,000
+GST: Not applicable
+Steps
+1. Open Purchase Voucher
+Go to:
+Gateway of Tally → Vouchers → F9 (Purchase)
+Select Item Invoice mode.
+2. Enter Voucher Details
+ Date: 10-08-2026 
+ Party A/c Name: Techno Supplies 
+ Supplier Invoice No.: TS/145 
+3. Create Supplier Ledger
+If the ledger does not exist:  Ledger Name: Techno Supplies 
+ Under: Sundry Creditors 
+Save.
+4. Create Purchase Ledger
+ Ledger Name: Purchase – Computer Accessories 
+ Under: Purchase Accounts 
+Save.
+Debit: Purchase – Computer Accessories
+Credit: Techno Supplies
+5. Create Stock Items
+Create:
+ USB Keyboard → Unit: Nos. 
+ USB Mouse → Unit: Nos. 
+6. Enter Purchase Details
+Item Qty Rate
+USB Keyboard 50 ₹800
+USB Mouse 50 ₹400
+Purchase value = ₹60,000
+7. Add Freight in the SAME Purchase Voucher
+Under Additional Cost of Purchase, select:
+Freight Inward
+If the ledger does not exist, create:  Ledger Name: Freight Inward 
+ Under: Direct Expenses 
+Enter:
+₹3,000
+8. Save the Voucher
+Press Ctrl + A.
+Result
+Purchase = ₹60,000
+Additional Cost = ₹3,000
+Total Inventory Cost = ₹63,000
+Practical 2 — Purchase + Freight + Loading 
+Charges
+Transaction Details
+Date: 18 August 2026
+Supplier: Galaxy Distributors
+Supplier Invoice No.: GD/238
+Item Quantity Rate Amount
+Bluetooth Speaker 40 Nos. ₹2,500 ₹1,00,000
+Power Bank 60 Nos. ₹1,200 ₹72,000
+Purchase Total ₹1,72,000
+Additional costs:
+ Freight: ₹5,000 
+ Loading Charges: ₹2,000 
+GST: Not applicable
+Steps 1. Open Purchase Voucher
+Go to:
+Gateway of Tally → Vouchers → F9 (Purchase)
+Select Item Invoice mode.
+2. Enter Voucher Details
+ Date: 18-08-2026 
+ Party A/c Name: Galaxy Distributors 
+ Supplier Invoice No.: GD/238 
+3. Create Supplier Ledger
+ Ledger Name: Galaxy Distributors 
+ Under: Sundry Creditors 
+4. Create Purchase Ledger
+ Ledger Name: Purchase – Electronics 
+ Under: Purchase Accounts 
+Debit: Purchase – Electronics
+Credit: Galaxy Distributors
+5. Create Stock Items
+Create:
+ Bluetooth Speaker → Unit: Nos. 
+ Power Bank → Unit: Nos. 
+6. Enter Purchase Details Item Qty Rate
+Bluetooth Speaker 40 ₹2,500
+Power Bank 60 ₹1,200
+Purchase value = ₹1,72,000
+7. Add Freight in the SAME Purchase Voucher
+Create ledger:
+ Freight Inward
+ Under: Direct Expenses 
+Under Additional Cost of Purchase, select:
+Freight Inward → ₹5,000
+8. Add Loading Charges in the SAME Purchase Voucher
+Create ledger:
+ Loading Charges
+ Under: Direct Expenses 
+Under Additional Cost of Purchase, select:
+Loading Charges → ₹2,000
+9. Save the Voucher
+Press Ctrl + A.
+Result
+Purchase = ₹1,72,000
+Freight = ₹5,000
+Loading Charges = ₹2,000
+Total Inventory Cost = ₹1,79,000
