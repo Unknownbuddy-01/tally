@@ -1,0 +1,26 @@
+Budget and Scenario Assignment.
+Practical Date - 19 September
+Submission Date - 26 September
+Question 1
+ABC Traders has set an annual sales budget of ₹10,00,000 for the fi nancial year
+2026–27. Create a Sales Budget in TallyPrime.
+Answer Steps:
+1. Open TallyPrime → Create → Budgets.
+2. Select Budget Name: Sales Budget 2026–27.
+3. Set the period: 1-Apr-2026 to 31-Mar-2027.
+4. Select Ledger: Sales Account.
+5. Enter the budget amount: ₹10,00,000.
+6. Save the budget using Ctrl + A.
+Question 2: Scenario Management
+Practical Question:
+ABC Traders wants to record a proposed purchase transaction of ₹50,000
+without affecting the actual books. Create a scenario named Proposed Purchases
+and record the transaction using a Memorandum Voucher.
+Answer Steps:
+1. Go to Gateway of Tally → Create → Scenario.
+2. Create a scenario named Proposed Purchases.
+3. Enable Include Actuals: No.
+4. Create a Memorandum Voucher (Ctrl + F10).
+5. Record the purchase transaction of ₹50,000.
+6. Select the scenario Proposed Purchases.
+7. View the scenario report to check the projected impact.
