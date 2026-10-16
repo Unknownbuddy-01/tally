@@ -1,0 +1,43 @@
+TDS
+Question 1: Confi guring TDS Settings
+Practical Question:
+Shree Enterprises is required to deduct TDS on payments made to contractors. Confi gure
+TDS in TallyPrime and create the required TDS ledger.
+Answer Steps:
+1. Go to F11 (Features) → Statutory & Taxation.
+2. Enable TDS.
+3. Enter the required TAN and deductor details.
+4. Create a TDS Nature of Payment for contractors.
+5. Create the required TDS ledger under Duties & Taxes.
+6. Save the settings.
+Question 2: Recording TDS on Payments
+Shree Enterprises pays ₹50,000 to ABC Contractors for contract services. The
+contractor's PAN is ABCDE1234F. Confi gure the contractor for TDS, create the required
+TDS ledger, record the payment, deduct TDS, and make the TDS payment to the
+Government.
+Answer Steps:
+1. Create ABC Contractors under Sundry Creditors.
+2. Open the party ledger and enter the contractor's PAN: ABCDE1234F.
+3. Enable TDS Deductee Details and select the appropriate Deductee Type.
+4. Create the required TDS Nature of Payment for contractor payments.
+5. Create TDS Payable ledger under Duties & Taxes.
+6. Set Type of Duty/Tax: TDS and map the correct Nature of Payment.
+7. Record the contractor expense/payment voucher for ₹50,000.
+8. Select the appropriate TDS Nature of Payment and apply the TDS ledger.
+9. Verify the TDS amount and net amount payable to the contractor.
+10. Save the voucher.
+11. Go to TDS Reports → TDS Payable and verify the amount.
+12. Record the TDS payment to Government through the Payment voucher.
+13. Enter the required challan details and save the transaction.
+14. Generate/verify the TDS Challan and TDS Report. Question 3: Processing TDS Payment and Generating Challan
+Practical Question:
+Shree Enterprises needs to pay the TDS deducted during the month to the Government.
+Process the TDS payment and generate the TDS challan.
+Answer Steps:
+1. Go to Gateway of Tally → Display More Reports → Statutory Reports → TDS.
+2. Review the TDS Payable amount.
+3. Select the required period and verify the deductions.
+4. Record the TDS Payment to the Government.
+5. Enter the required challan details.
+6. Generate the TDS Challan.
+7. Verify the TDS report for the period.
