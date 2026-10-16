@@ -1,0 +1,104 @@
+Question 1 – Purchase, Purchase Return & GST Challan
+Your company purchases 75 Dell Latitude Laptops from ABC Computer Systems Pvt. Ltd., 
+registered in Karnataka, at 18% GST.
+ Price of each Laptop – ₹72,000
+ Unit Code – Pieces
+ HSN Code – 8471
+ GST Rate – 18%
+ Invoice Number – KAR/26-27/118
+ Invoice Date – 10-Aug-2026
+Create a Purchase Order and then use it for creating a Purchase Voucher implementing Bill 
+Wise Reference Details.
+Post purchase, 5 Laptops are found defective. Raise a Debit Note to return the defective 
+Laptops and adjust the applicable GST.
+Calculate the available Input Tax Credit, GST liability and amount payable through the 
+Electronic Cash Ledger. Generate the GST PMT-06 Challan for the balance GST payable and
+record the CPIN and CIN.
+Question 2 – Sales, Sales Return & GST Challan
+Your company sells 42 Lenovo ThinkPad Laptops to BrightEdge Technologies Pvt. Ltd., 
+registered in Gujarat, at 18% GST.
+ Price of each Laptop – ₹91,000
+ Unit Code – Pieces
+ HSN Code – 8471
+ GST Rate – 18%
+ Invoice Number – MH/26-27/204
+ Invoice Date – 18-Aug-2026
+Create a Sales Order and then use it for creating a Sales Voucher implementing Bill Wise 
+Reference Details.
+Post sales, 4 Laptops are returned due to manufacturing defects. Raise a Credit Note for the 
+returned products and adjust the applicable GST. Calculate the Output GST Liability, adjust the available ITC, determine the balance GST 
+payable and generate the GST PMT-06 Challan for the amount payable in cash. Record the 
+CPIN and CIN.
+Question 3 – Multiple GST Transactions, ITC Set-off & Challan
+Your company purchases 20 Office Monitors from Maharashtra Office Systems, registered in 
+Maharashtra, at 18% GST.
+ Price of each Monitor – ₹24,000
+ Unit Code – Pieces
+ HSN Code – 8528
+ GST Rate – 18%
+ Invoice Number – MH/26-27/319
+Your company also sells 30 Lenovo ThinkPad Laptops to BrightEdge Technologies Pvt. 
+Ltd., registered in Gujarat, at 18% GST.
+ Price of each Laptop – ₹90,000
+ Unit Code – Pieces
+ HSN Code – 8471
+ GST Rate – 18%
+ Invoice Number – MH/26-27/225
+Create the required Purchase Order, Purchase Voucher, Sales Order and Sales Voucher 
+implementing Bill Wise Reference Details.
+Post purchase, 3 Monitors are found defective and are returned to the supplier. Raise a Debit 
+Note and adjust the applicable GST.
+Post sales, 5 Laptops are returned by the customer. Raise a Credit Note and adjust the 
+applicable GST.
+Calculate the Output GST, Input Tax Credit, ITC Reversal, Net GST Liability and ITC Set-
+off. Determine the balance amount payable through the Electronic Cash Ledger and generate 
+the GST PMT-06 Challan for the balance amount. Record the CPIN, CIN and payment 
+details. Answers
+1. Create Supplier: Gateway of Tally → Create → Ledger → ABC Computer Systems Pvt. Ltd. → 
+Sundry Creditors → State: Karnataka → Enable Bill-wise Details. 
+2. Create Stock Item: Create → Stock Item → Dell Latitude Laptop → Unit: Pieces → HSN: 8471 → 
+GST: 18%. 
+3. Purchase Order: Vouchers → Purchase Order → Select supplier → 75 Laptops @ ₹72,000 → 
+Apply IGST 18% → Save. 
+4. Purchase Voucher: Purchase (F9) → Select Purchase Order → Verify quantity, rate and IGST → 
+Enter Bill-wise Reference → Save. 
+5. Debit Note: Debit Note → Select supplier → Enter 5 Laptops @ ₹72,000 → Apply IGST 
+adjustment → Save. 
+6. GST Report: Display More Reports → Statutory Reports → GST → GST Tax Analysis → Verify ITC 
+and liability. 
+7. GST Challan: GST Payment/Challan → Enter balance GST payable → Verify tax heads → 
+Generate Challan → Record challan details. 
+Question 2 – Sales & GST Challan
+1. Create Customer: Create → Ledger → BrightEdge Technologies Pvt. Ltd. → Sundry Debtors → 
+State: Gujarat → Enable Bill-wise Details. 
+2. Create Stock Item: Create → Stock Item → Lenovo ThinkPad Laptop → Unit: Pieces → HSN: 
+8471 → GST: 18%. 
+3. Sales Order: Vouchers → Sales Order → Select customer → 42 Laptops @ ₹91,000 → Apply IGST 
+18% → Save. 
+4. Sales Voucher: Sales (F8) → Select Sales Order → Verify quantity, rate and IGST → Enter Bill-
+wise Reference → Save. 
+5. Credit Note: Credit Note → Select customer → Enter 4 Laptops @ ₹91,000 → Apply IGST 
+adjustment → Save. 
+6. GST Report: Display More Reports → Statutory Reports → GST → GST Tax Analysis → Verify 
+output GST and ITC. 
+7. GST Challan: GST Payment/Challan → Enter balance GST payable → Verify → Generate Challan 
+→ Record details. 
+Question 3 – Multiple GST Transactions & Challan
+1. Create Ledgers: Create Maharashtra Office Systems under Sundry Creditors and BrightEdge 
+Technologies Pvt. Ltd. under Sundry Debtors. Set respective states and enable Bill-wise Details. 
+2. Create Stock Items: Create Office Monitor – HSN 8528 – GST 18%; create Lenovo ThinkPad 
+Laptop – HSN 8471 – GST 18%. 
+3. Local Purchase: Purchase Order → 20 Monitors @ ₹24,000 → Apply CGST 9% + SGST 9% → 
+Save. 4. Purchase Voucher: Purchase (F9) → Select Purchase Order → Verify GST → Enter Bill-wise 
+Reference → Save. 
+5. Interstate Sale: Sales Order → 30 Laptops @ ₹90,000 → Select Gujarat customer → Apply IGST 
+18% → Save. 
+6. Sales Voucher: Sales (F8) → Select Sales Order → Verify GST → Enter Bill-wise Reference → 
+Save. 
+7. Debit Note: Debit Note → 3 Monitors @ ₹24,000 → Select supplier → Adjust CGST/SGST → 
+Save. 
+8. Credit Note: Credit Note → 5 Laptops @ ₹90,000 → Select customer → Adjust IGST → Save. 
+9. GST Calculation: Display More Reports → Statutory Reports → GST → GST Tax Analysis → Check 
+Output GST, ITC and ITC adjustments. 
+10. ITC Set-off & Challan: Verify eligible ITC → Calculate balance cash liability → Open GST 
+Payment/Challan → Enter amount → Generate Challan → Record challan deta
