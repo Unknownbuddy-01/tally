@@ -1,0 +1,33 @@
+Management of Business Data
+Practical Date - 19 September
+Submission Date - 26 September
+Question 1: Exporting and Importing Data
+Practical Question:
+Rahul Traders wants to export its ledger details from TallyPrime in Excel format
+and import master data into another company.
+Answer Steps:
+Exporting Data:
+1. Open TallyPrime → Display → Account Books → Ledger.
+2. Select the required ledger.
+3. Press Alt + E (Export).
+4. Select Excel (Excel format).
+5. Specify the fi le location and export.
+Importing Data:
+1. Open the destination company in TallyPrime.
+2. Go to Alt + O → Import → Masters.
+3. Select the Excel fi le.
+4. Confi gure the import settings.
+5. Click Import to import the master data.
+Question 2: Confi guring ODBC and Creating Queries
+Practical Question:
+MK Traders wants to connect TallyPrime with Microsoft Excel using ODBC to
+analyse ledger balances.
+Answer Steps:
+1. Open TallyPrime → F1 (Help) → Settings → Connectivity.
+2. Enable ODBC Server.
+3. Note the ODBC port number (default: 9000).
+4. Open Microsoft Excel → Data → Get Data → From Other Sources → From
+ODBC.
+5. Select the Tally ODBC data source.
+6. Connect and select the required ledger data.
+7. Create a query in Excel to analyse ledger balances.
