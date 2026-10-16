@@ -1,0 +1,36 @@
+Cost/Profi t Centres Management
+Question 1: Allocation of Expenses and Incomes to Cost Centres
+Practical Question:
+Shree Enterprises has two departments: Sales Department and Administration
+Department. Allocate an offi ce expense of ₹40,000 between the two cost centres in the
+ratio of 60:40.
+Answer Steps:
+1. Go to F11 → Accounting → Enable Cost Centres.
+2. Create a Sales Department and Administration Department as Cost Centres.
+3. Create/verify the Offi ce Expenses ledger and enable cost centre allocation.
+4. Go to Accounting Vouchers → Payment (F5).
+5. Select Offi ce Expenses and enter ₹40,000.
+6. In the Cost Centre Allocation screen, enter:
+○ Sales Department – ₹24,000
+○ Administration Department – ₹16,000
+7. Save the voucher.
+8. View Cost Centre Reports to verify the allocation.
+Question 2: Automation of Cost Centre Allocation Using Cost Centre
+Classes
+Practical Question:
+Shree Enterprises wants to automatically allocate Telephone Expenses between the Sales and Administration departments in the ratio of 70:30. Create a Cost Centre Class and
+record the expense using automatic allocation.
+Answer Steps:
+1. Go to F11 → Accounting → Enable Cost Centres.
+2. Create Sales Department and Administration Department cost centres.
+3. Go to Cost Centre Class → Create.
+4. Name the class Telephone Expense Allocation.
+5. Set the allocation:
+○ Sales Department – 70%
+○ Administration Department – 30%
+6. Create/alter the Telephone Expenses ledger and enable Cost Centre Allocation.
+7. Record a Payment Voucher (F5) for the telephone expense.
+8. Select the Telephone Expense Allocation class.
+9. TallyPrime automatically allocates the expense according to the defi ned
+percentages.
+10. Save the voucher and verify the Cost Centre Report.
